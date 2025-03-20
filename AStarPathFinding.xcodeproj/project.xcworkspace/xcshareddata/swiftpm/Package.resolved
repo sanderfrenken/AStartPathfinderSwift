@@ -1,0 +1,15 @@
+{
+  "originHash" : "1eb4498ae62be5acb444874ac384445befa5eb3b963c43ddba4043cd2f2d60ca",
+  "pins" : [
+    {
+      "identity" : "msktiled",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sanderfrenken/MSKTiled",
+      "state" : {
+        "revision" : "851055fc04056e00b57cc7269e8520eb68da8e83",
+        "version" : "2.0.10"
+      }
+    }
+  ],
+  "version" : 3
+}
